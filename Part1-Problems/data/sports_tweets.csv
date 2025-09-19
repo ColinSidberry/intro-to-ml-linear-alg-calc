@@ -1,0 +1,17 @@
+text,sentiment,label
+"Go Dolphins!",positive,1
+"Terrible game",negative,0
+"Love the fins!",positive,1
+"Bad coaching",negative,0
+"Great win!!",positive,1
+"Hate this team",negative,0
+"Amazing touchdown!",positive,1
+"Worst season ever",negative,0
+"Dolphins are incredible!",positive,1
+"This team sucks",negative,0
+"What a play!",positive,1
+"Disappointing loss",negative,0
+"Miami dolphins rule!",positive,1
+"Awful performance",negative,0
+"Best team ever!",positive,1
+"Can't stand them",negative,0
